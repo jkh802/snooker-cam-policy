@@ -1,9 +1,9 @@
 {
   "package_name": "au.snooker.live.user",
-  "version_code": 15,
-  "version_name": "1.3.1",
+  "version_code": 16,
+  "version_name": "1.4.0",
   "min_sdk": 26,
-  "size_bytes": 123046,
-  "sha256": "85c1e6eb97a1e57e234bc62b1471b6985c83b5a4dce48f1b1a87becb5ea659e6",
-  "notes": "Restricted User app with the Wi-Fi password keyboard fix and Connect Phone QR pairing. No owner or streaming credentials included."
+  "size_bytes": 248781,
+  "sha256": "fd48c6b8167f23275b87d818fab9df3bd16390685986d341825818d2cbb0222f",
+  "notes": "Clear Facebook/YouTube selection, connected club account and audience checks, automatic YouTube broadcasts and share links. Restricted User access; no account credentials included."
 }
