@@ -1,9 +1,9 @@
 {
   "package_name": "au.snooker.live.user",
-  "version_code": 16,
-  "version_name": "1.4.0",
+  "version_code": 17,
+  "version_name": "1.5.0",
   "min_sdk": 26,
-  "size_bytes": 248781,
-  "sha256": "fd48c6b8167f23275b87d818fab9df3bd16390685986d341825818d2cbb0222f",
-  "notes": "Clear Facebook/YouTube selection, connected club account and audience checks, automatic YouTube broadcasts and share links. Restricted User access; no account credentials included."
+  "size_bytes": 135246,
+  "sha256": "05a964bdaa4ac69ef95f392c1053f9d6e1fab89528c53b08470c525eb21bea89",
+  "notes": "Supports the Pi picture-in-picture update while retaining restricted User streaming/scoring controls. Close-up configuration requires Admin. No account credentials included."
 }
