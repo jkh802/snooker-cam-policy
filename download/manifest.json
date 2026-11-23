@@ -1,9 +1,9 @@
 {
   "package_name": "au.snooker.live.user",
-  "version_code": 19,
-  "version_name": "1.6.1",
+  "version_code": 20,
+  "version_name": "1.7.0",
   "min_sdk": 26,
-  "size_bytes": 141762,
-  "sha256": "1fba6205f4904ded14998291505f963d8242e7c5ed181a2e93f1665665275c28",
-  "notes": "Compatible with perspective-corrected scoreboard insets; retains restricted User streaming/scoring controls. Four-corner setup requires Admin. No account credentials included."
+  "size_bytes": 271391,
+  "sha256": "f0a9e087b13c284ef6b75a262d0dffc1c275d336193c8bb6311d8d0183cb7912",
+  "notes": "Choose Twitch or YouTube, start/stop, and share the viewer link. Facebook streaming controls are retired. User access cannot read or change streaming credentials."
 }
