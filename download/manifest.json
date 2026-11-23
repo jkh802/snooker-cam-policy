@@ -1,9 +1,9 @@
 {
   "package_name": "au.snooker.live.user",
-  "version_code": 22,
-  "version_name": "1.8.1",
+  "version_code": 23,
+  "version_name": "1.9.0",
   "min_sdk": 26,
-  "size_bytes": 281457,
-  "sha256": "73d7dca6cd74d352f143062079a230889ca8204cd5a0c36d561792a3a49d8f82",
-  "notes": "Forget Pi now requires the club PIN. Connect once after updating to cache protection for offline use. Includes incorrect-attempt delay; only this phone connection is removed."
+  "size_bytes": 121208,
+  "sha256": "e1a2ccde26db5df9d8166510938eb7932c01de049cda43645390b328d2da4f76",
+  "notes": "Scores now have +1 through +10 in one row. Distributed apps are non-debuggable; Admin downloads require owner access."
 }
