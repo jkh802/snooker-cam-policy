@@ -1,9 +1,9 @@
 {
   "package_name": "au.snooker.live.user",
-  "version_code": 18,
-  "version_name": "1.6.0",
+  "version_code": 19,
+  "version_name": "1.6.1",
   "min_sdk": 26,
-  "size_bytes": 140270,
-  "sha256": "7d84773e464db12ab241758dda50b957878b103243472b7dd1b6d3dff4d1e01a",
+  "size_bytes": 141762,
+  "sha256": "1fba6205f4904ded14998291505f963d8242e7c5ed181a2e93f1665665275c28",
   "notes": "Compatible with perspective-corrected scoreboard insets; retains restricted User streaming/scoring controls. Four-corner setup requires Admin. No account credentials included."
 }
