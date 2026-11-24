@@ -1,9 +1,9 @@
 {
   "package_name": "au.snooker.live.user",
-  "version_code": 23,
-  "version_name": "1.9.0",
+  "version_code": 24,
+  "version_name": "1.9.1",
   "min_sdk": 26,
-  "size_bytes": 121208,
-  "sha256": "e1a2ccde26db5df9d8166510938eb7932c01de049cda43645390b328d2da4f76",
-  "notes": "Scores now have +1 through +10 in one row. Distributed apps are non-debuggable; Admin downloads require owner access."
+  "size_bytes": 122016,
+  "sha256": "8720166f55e5b34ef9605aaf3a34e30564e90741f9648286943d35eda8c18929",
+  "notes": "Bluetooth now refreshes saved camera and club addresses after a Wi-Fi change, preserving existing permissions and scores."
 }
