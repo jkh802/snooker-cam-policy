@@ -1,9 +1,9 @@
 {
   "package_name": "au.snooker.live.user",
-  "version_code": 24,
-  "version_name": "1.9.1",
+  "version_code": 25,
+  "version_name": "1.10.0",
   "min_sdk": 26,
-  "size_bytes": 122016,
-  "sha256": "8720166f55e5b34ef9605aaf3a34e30564e90741f9648286943d35eda8c18929",
-  "notes": "Bluetooth now refreshes saved camera and club addresses after a Wi-Fi change, preserving existing permissions and scores."
+  "size_bytes": 124240,
+  "sha256": "6f83bf043f8eb669c2c1b95e2c445fd9ce8c1ddbfa7c5f61f4afce5c23d68d23",
+  "notes": "Match options now include countdown, count-up timer and target score. Time-up and target messages keep streaming."
 }
