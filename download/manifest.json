@@ -1,9 +1,9 @@
 {
   "package_name": "au.snooker.live.user",
-  "version_code": 27,
-  "version_name": "1.10.2",
+  "version_code": 28,
+  "version_name": "1.11.0",
   "min_sdk": 26,
-  "size_bytes": 124844,
-  "sha256": "c8580d49068e8f0a0b2c586aff247ca289c9a17b2a0a2a8dade8bc10a70714f5",
-  "notes": "Simpler User connection menu. Address and access-file tools are in Admin; PIN-protected Forget Pi is under Advanced."
+  "size_bytes": 127368,
+  "sha256": "c55d4309ac3d0a55d0e366366eaa452d88fea40c51981f8dcce4ef006ddf8316",
+  "notes": "Admin scoreboard close-up setup now works over Bluetooth using a refreshable still photo. Includes four-corner adjustment, corrected sample and encrypted photo transfer."
 }
