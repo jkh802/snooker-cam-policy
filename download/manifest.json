@@ -1,9 +1,9 @@
 {
   "package_name": "au.snooker.live.user",
-  "version_code": 26,
-  "version_name": "1.10.1",
+  "version_code": 27,
+  "version_name": "1.10.2",
   "min_sdk": 26,
-  "size_bytes": 124604,
-  "sha256": "da4416e9bd971f63395e17e95ef517c5a5e2580da06d00927680649a4288176a",
-  "notes": "Stop stream now asks for confirmation. Cancel keeps the stream running; confirmed Stop applies only to the selected broadcast."
+  "size_bytes": 124844,
+  "sha256": "c8580d49068e8f0a0b2c586aff247ca289c9a17b2a0a2a8dade8bc10a70714f5",
+  "notes": "Simpler User connection menu. Address and access-file tools are in Admin; PIN-protected Forget Pi is under Advanced."
 }
