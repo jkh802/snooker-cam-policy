@@ -1,9 +1,9 @@
 {
   "package_name": "au.snooker.live.user",
-  "version_code": 29,
-  "version_name": "1.11.1",
+  "version_code": 30,
+  "version_name": "1.12.0",
   "min_sdk": 26,
-  "size_bytes": 129860,
-  "sha256": "0bfe9f12b5c230aadbfd3173b6b8308ccb86f303fd47421730aa3cc5d561fbe5",
-  "notes": "Bluetooth recovery and shared-reply handling improved. Failed links reconnect on the next action without replaying it. Advanced includes safe connection diagnostics."
+  "size_bytes": 130892,
+  "sha256": "b8894711da203046f49973421d940ec830157a5897ba60540c0c3e3cc205dfad",
+  "notes": "Admin now requires the Forget Pi PIN once per app session. Unlock stays in memory only; normal User controls and existing credentials are preserved."
 }
