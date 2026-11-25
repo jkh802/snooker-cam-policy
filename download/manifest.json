@@ -1,9 +1,9 @@
 {
   "package_name": "au.snooker.live.user",
-  "version_code": 28,
-  "version_name": "1.11.0",
+  "version_code": 29,
+  "version_name": "1.11.1",
   "min_sdk": 26,
-  "size_bytes": 127368,
-  "sha256": "c55d4309ac3d0a55d0e366366eaa452d88fea40c51981f8dcce4ef006ddf8316",
-  "notes": "Admin scoreboard close-up setup now works over Bluetooth using a refreshable still photo. Includes four-corner adjustment, corrected sample and encrypted photo transfer."
+  "size_bytes": 129860,
+  "sha256": "0bfe9f12b5c230aadbfd3173b6b8308ccb86f303fd47421730aa3cc5d561fbe5",
+  "notes": "Bluetooth recovery and shared-reply handling improved. Failed links reconnect on the next action without replaying it. Advanced includes safe connection diagnostics."
 }
